@@ -1,0 +1,11 @@
+{
+  "BIT_SIZE": 2,
+  "ONE_BIT_COLOR": [0, 255, 0],
+  "ZERO_BIT_COLOR": [0, 0, 255],
+  "DELIMITER_COLOR": [255, 0, 0],
+  "FRAME_WIDTH": 1024,
+  "FRAME_HEIGHT": 1024,
+  "FILE_TO_ENCODE": "encode_this.txt",
+  "ENCODED_VIDEO": "encoded\\video.mp4",
+  "DECODED_VIDEO_OUTPUT": "decoded"
+}
