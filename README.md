@@ -20,3 +20,7 @@ Python scripts to encode/decode text files from/to mp4 video.
 - ffmpeg
 - cv2
 - numpy
+
+## Example
+- File: ![encode_thix.txt](https://github.com/Aedif/visual_data/blob/master/encode_this.txt)
+- Video: ![video.mp4](https://github.com/Aedif/visual_data/blob/master/encoded/video.mp4)
